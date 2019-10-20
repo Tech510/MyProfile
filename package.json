@@ -1,0 +1,28 @@
+{
+  "name": "vedantmithawala.github.io",
+  "version": "1.0.0",
+  "description": "Portfolio of Vedant Mithawala, Front End Developer based in Atlanta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vedantmithawala/vedantmithawala.github.io.git"
+  },
+  "keywords": [
+    "frontend",
+    "Vedant",
+    "Mithwala",
+    "personal",
+    "portfolio",
+    "filterizr"
+  ],
+  "author": "Vedant Mithwala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vedantmithawala/vedantmithawala.github.io/issues"
+  },
+  "homepage": "https://github.com/vedantmithawala/vedantmithawala.github.io#readme"
+}
